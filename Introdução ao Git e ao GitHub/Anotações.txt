@@ -1,0 +1,3 @@
+Link para download: https://desktop.github.com/download/
+
+O Git Bash e um terminal externo para otiminizar no seu Git.
